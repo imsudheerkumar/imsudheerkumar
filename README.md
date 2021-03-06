@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sudheer Kumar Gandham</h1>
 <h3 align="center">A Passionate Salesforce Developer , Cloud Enthusiast</h3>
 
-<p align="left"> <a href="https://twitter.com/imsudheerkumar" target="blank"><img src="https://img.shields.io/twitter/follow/imsudheerkumar?logo=twitter&style=for-the-badge" alt="imsudheerkumar" /></a> </p>
+<p align="left"> <a href="https://facebook.com/imsudheerkumargandham" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="imsudheerkumar" /></a> </p>
+
+<p align="left"> <a href="https://gmail.com/dheer.gsk@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="imsudheerkumar" /></a> </p>
 
 - 🔭 I’m currently learning  **Microsoft Azure and Deepining my skills in Salesforce**
 
