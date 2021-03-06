@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sudheer Kumar Gandham</h1>
-<h3 align="center">A passionate Salesforce Developer , Cloud Enthusiast</h3>
+<h3 align="center">A Passionate Salesforce Developer , Cloud Enthusiast</h3>
 
 <p align="left"> <a href="https://twitter.com/imsudheerkumar" target="blank"><img src="https://img.shields.io/twitter/follow/imsudheerkumar?logo=twitter&style=for-the-badge" alt="imsudheerkumar" /></a> </p>
 
-- 🔭 I’m currently working on **Salesforce CI-CD with Azure**
+- 🔭 I’m currently learning  **Microsoft Azure and Deepining my skills in Salesforce**
 
-- 🌱 I’m currently Into **CRM World**
+- 🌱 I’m currently Into **CRM & Cloud**
 
 - 📫 How to reach me **dheer.gsk@gmail.com**
 
