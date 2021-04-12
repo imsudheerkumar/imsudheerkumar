@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently Into **CRM & Cloud**
 
-- 📫 How to reach me **dheer.gsk@gmail.com**
+- 📫 Reach me @@ **dheer.gsk@gmail.com**
 
 
 
