@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Salesforce Developer , Cloud Enthusiast</h3>
 
 
-- 🔭 I’m currently learning  **Mulesoft and Diving Deep into API world and also Deepining my skills in different Salesforce Products**
+- 🔭 I’m currently learning  **Mulesoft along with different Salesforce Products**
 
 - 🌱 I’m currently Into **CRM & Cloud**
 
