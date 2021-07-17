@@ -2,9 +2,7 @@
 <h3 align="center">A Passionate Salesforce Developer , Cloud Enthusiast</h3>
 
 
-- 🔭 I’m currently learning  **Mulesoft along with different Salesforce Products**
-
-- 🌱 I’m currently Into **CRM & Cloud**
+- 🔭 I’m currently learning  **Mulesoft, Javascript and Azure**
 
 - 📫 Reach me @@ **dheer.gsk@gmail.com**
 
