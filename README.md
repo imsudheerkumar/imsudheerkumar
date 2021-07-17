@@ -24,7 +24,7 @@
   <summary>:zap: GitHub Stats</summary>
   <img align="left" color="black" src="https://github-readme-stats-sage-pi.vercel.app/api?username=imsudheerkumar&show_icons=true&hide_border=true" alt="imsudheerkumar" /></details>
  
- [![Sudheer's GitHub stats](https://github-readme-stats.vercel.app/api?username=imsudheerkumar)](https://github.com/imsudheerkumar/github-readme-stats)
+ [![Sudheer's GitHub stats](https://github-readme-stats.vercel.app/api?username=imsudheerkumar&theme=dracula)](https://github.com/imsudheerkumar/github-readme-stats)
 
 
 Credits: [Sudheer Kumar Gandham](https://github.com/imsudheerkumar)
