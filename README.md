@@ -20,7 +20,7 @@
 <br>
 <p align="center">
 <p><img align="left" src="https://github-readme-stats-teal-nu.vercel.app/api?username=imsudheerkumar&show_icons=true&locale=en&layout=compact&theme=dracula" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats-teal-nu.vercel.app/api?username=imsudheerkumar&show_icons=true&locale=en&theme=dracula" alt="ovi" width="410" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats-teal-nu.vercel.app/api/top-langs?username=imsudheerkumar&show_icons=true&locale=en&theme=dracula" alt="ovi" width="410" /></p>
 <hr>
 
 Credits: [Sudheer Kumar Gandham](https://github.com/imsudheerkumar)
