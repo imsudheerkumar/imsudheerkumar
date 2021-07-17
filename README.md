@@ -23,5 +23,22 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
   <img align="left" color="black" src="https://github-readme-stats-sage-pi.vercel.app/api?username=imsudheerkumar&show_icons=true&hide_border=true" alt="imsudheerkumar" /></details>
+  
+  #### Want to Build Your Own GitHub Profile?
+
+Do you like my profile and want to build your own? It's very simple. GitHub's **Profile Readme** helps you achive it.
+
+Do the Folllowing Steps :
+
+1. Create a *special* GitHub repository with your username as repository name. My username is `imsudheerkumar` so my profile readme repository has the name `imsudheerkumar`.
+2. Add a `README.md` to this repository.
+3. Put some cool content about yourself into `README.md`. it's ok to search for some beautiful readme profiles in github, I have forked one repository, check that out!
+
+And that's about it. The `README.md` of your profile readme repository will be displayed on your profile page. 
+
+-----
+Credits: [Sudheer Kumar Gandham](https://github.com/imsudheerkumar)
+
+Last Edited on: 17/07/2021
 
 
