@@ -21,10 +21,8 @@
 
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: Github Statistics</summary>
   <img align="left" color="black" src="https://github-readme-stats-teal-nu.vercel.app/api?username=imsudheerkumar&show_icons=true&hide_border=true&theme=dracula" alt="imsudheerkumar" /></details>
- 
- [![Sudheer's GitHub stats](https://github-readme-stats.vercel.app/api?username=imsudheerkumar&theme=dracula)](https://github.com/imsudheerkumar/github-readme-stats)
 
 
 Credits: [Sudheer Kumar Gandham](https://github.com/imsudheerkumar)
