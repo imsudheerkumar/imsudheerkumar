@@ -20,9 +20,11 @@
 
 <details>
   <summary>:zap: Github Statistics</summary>
-  <img align="left" color="black" src="https://github-readme-stats-teal-nu.vercel.app/api?username=imsudheerkumar&show_icons=true&hide_border=true&theme=dracula" alt="imsudheerkumar" /></details>
-  
+  <img align="left" color="black" src="https://github-readme-stats-teal-nu.vercel.app/api?username=imsudheerkumar&show_icons=true&hide_border=true&theme=dracula" alt="imsudheerkumar" />
   [![Top Langs](https://github-readme-stats-teal-nu.vercel.app/api/top-langs/?username=imsudheerkumar)](https://github.com/anuraghazra/github-readme-stats)
+</details>
+  
+  
 
 
 
