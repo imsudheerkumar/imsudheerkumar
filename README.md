@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently learning  **Mulesoft, Javascript and Azure**
 
-- 📫 Reach me @@ **dheer.gsk@gmail.com**
+- 📫 Reach me @ **dheer.gsk@gmail.com**
 
 
 
