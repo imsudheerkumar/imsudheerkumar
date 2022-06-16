@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Salesforce Developer , Cloud Enthusiast</h3>
 
 
-- 🔭 I’m currently learning  **Mulesoft, Javascript and Azure**
+- 🔭 I’m currently learning  **Mulesoft, Javascript**
 
 - 📫 Reach me @ **dheer.gsk@gmail.com**
 
