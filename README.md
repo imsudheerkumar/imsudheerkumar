@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Salesforce Developer , Cloud Enthusiast</h3>
 
 
-- 🔭 I’m currently learning  **Mulesoft, Salesforce LWC**
+- 🔭 I’m currently learning  **Mulesoft, Salesforce LWC and Net Zero Cloud**
 
 - 📫 Reach me @ **dheer.gsk@gmail.com**
 
