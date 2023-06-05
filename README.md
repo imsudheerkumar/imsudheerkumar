@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sudheer Kumar Gandham</h1>
-<h3 align="center">A Passionate Salesforce Developer , Cloud Enthusiast</h3>
-
-
-- 🔭 I’m currently learning  **Mulesoft, Salesforce LWC and Net Zero Cloud**
+<h3 align="center">A Passionate Salesforce and Mulesoft Developer, Cloud Enthusiast</h3>
 
 - 📫 Reach me @ **dheer.gsk@gmail.com**
 
