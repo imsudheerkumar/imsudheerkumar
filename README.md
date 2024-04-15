@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sudheer Kumar Gandham</h1>
-<h3 align="center">A Passionate Salesforce and Mulesoft Developer, Cloud Enthusiast</h3>
+<h3 align="center">A Passionate Salesforce and Mulesoft Developer, and a Cloud Enthusiast</h3>
 
 - 📫 Reach me @ **dheer.gsk@gmail.com**
 
